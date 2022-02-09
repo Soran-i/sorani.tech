@@ -190,6 +190,7 @@ ul ol {
 
 .card1 .featured-image {
   background-size: cover;
+  background-color: white;
   background-position: center;
   background-repeat: no-repeat;
   border-top-left-radius: 13px;
