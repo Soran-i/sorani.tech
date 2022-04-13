@@ -129,7 +129,7 @@ const mentor = [
     subtitle: "Hacker",
     image: "assets/images/experience-page/hackthenorth.png",
     desp: "Out team developed app that allows you to locate lost devices using an SMS API called Twilio.",
-  }
+  },
 ];
 
 const showCards3 = () => {
